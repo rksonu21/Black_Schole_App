@@ -6,6 +6,7 @@
 
 import streamlit as st
 import math
+import scipy
 from scipy.stats import norm
 
 
