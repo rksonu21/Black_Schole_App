@@ -55,9 +55,3 @@ Their formulas can be seen below:
 Black-Scholes Model Explanation: [Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) and [Investopedia](https://www.investopedia.com/terms/b/blackscholes.asp)
 
 Formula Images: [Macroption](https://www.macroption.com/black-scholes-formula/)
-
-## Issues and Suggestions
-
-
-If you encounter an error in the program, a way to make code faster, any wrong application of financial formulas and concepts or just want to make a suggestion on how to make this project better raise a new issue [here](https://github.com/rksonu21/Black_Schole_App). 
-
