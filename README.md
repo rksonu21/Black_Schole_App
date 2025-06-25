@@ -26,18 +26,6 @@ The Black-Scholes model makes certain assumptions:
 - The returns on the underlying asset are log-normally distributed.
 - The option is European and can only be exercised at expiration.
 
-## Call and Put Option Price Formulas
-
-
-Call option (C) and put option (P) prices are calculated using the following formulas:
-
-![Call](call-formula.jpg)
-![Put](put-formula.jpg)
-
-The formulas for d1 and d2 are:
-
-![d1](d1-d2-formula.jpg)
-
 ## The Option Greeks
 
 
@@ -45,13 +33,3 @@ The formulas for d1 and d2 are:
 
 The Greeks are important not only in the mathematical theory of finance, but also for those actively trading. Financial institutions will typically set (risk) limit values for each of the Greeks that their traders must not exceed. Delta is the most important Greek since this usually confers the largest risk.
 
-Their formulas can be seen below:
-
-![Greek Formulas](greeks.png)
-
-## Sources
-
-
-Black-Scholes Model Explanation: [Wikipedia](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) and [Investopedia](https://www.investopedia.com/terms/b/blackscholes.asp)
-
-Formula Images: [Macroption](https://www.macroption.com/black-scholes-formula/)
